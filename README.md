@@ -42,7 +42,7 @@ A lógica base de rede e a estrutura P2P deste projeto foram inspiradas e adapta
 
 -   **Fonte Original**: [Peer-to-Peer Networking in Rust](https://www.youtube.com/watch?v=C9NC0RTCoT0) (YouTube).
     
--   **Autor Original**: Douglas Starnes.
+-   **Autor Original**: Semicolon.
     
 
 A implementação atual expande o código original ao remover a dependência de argumentos de linha de comando e adicionar uma interface gráfica funcional com gestão de estado reativo.
